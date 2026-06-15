@@ -1,2 +1,2 @@
-# Navigation-game
-A simple Nav game in C
+# Navigation-system
+A simple Nav system in C
